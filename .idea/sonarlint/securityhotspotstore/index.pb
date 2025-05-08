@@ -5,3 +5,5 @@ Q
 !contracts/asset-registration.clar,3/5/359efc922f0fe1a8fb8aa99ef2802ecbf8721efc
 U
 %contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
+T
+$contracts/performance-analytics.clar,6/4/64c546131d60492f12020022f9d031aecfc1a850
