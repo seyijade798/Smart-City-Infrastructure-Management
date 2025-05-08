@@ -7,3 +7,5 @@ U
 %contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
 T
 $contracts/performance-analytics.clar,6/4/64c546131d60492f12020022f9d031aecfc1a850
+R
+"contracts/resource-allocation.clar,b/8/b894c2e4e1f74c4841d3bb7e04dab1a5e317892f
